@@ -8,9 +8,9 @@
 #include <signal.h>
 
 /*socket 
- *
- *
- *
+ *bind
+ *connect
+ *recive
  */
 #define SERVER_PORT 8888
 #define BACKLOG 10
